@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Updated Holdings Assignment</string>
+    <string name="error_network_disconnected">Network disconnected</string>
+    <string name="error_occurred">Error occurred</string>
+    <string name="holdings">HOLDINGS</string>
+    <string name="net_qty">NET QTY:</string>
+    <string name="ltp">LTP:</string>
+    <string name="p_and_l">P&amp;L:</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="total_investment">Total investment*</string>
+    <string name="current_value">Current value*</string>
+    <string name="profit_and_loss">Profit &amp; Loss*</string>
+    <string name="today_profit_and_loss">Today\'s Profit &amp; Loss*</string>
+    <string name="no_internet_message">No internet connection!! Please connect to an active internet connection to fetch updated data.</string>
+</resources>
